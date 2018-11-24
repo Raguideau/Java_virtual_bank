@@ -1,0 +1,15 @@
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:274:034)> 0/0	0% Succes		Test total duration: 515ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:443:058)> 0/0	0% Succes		Test total duration: 495ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:772:043)> Class not found
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:795:043)> TestDeposit testNegativeValue OK 0ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:798:043)> TestDeposit testCorrectlyDeposited OK 1ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:803:043)> TestWithdraw testCorrectlyWithdrawn OK 2ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:805:043)> TestWithdraw testInsufficientFund OK 1ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:842:043)> TestTransfert testCorrectlyTransfered OK 2ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:864:043)> TestTransfert testInsufficientFund OK 0ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:873:043)> TestCredit testNegativeValue OK 2ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:878:043)> TestCredit testUserTooOld OK 2ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:883:043)> TestCredit testInsufficientRate OK 0ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:913:043)> TestCredit testCreditCount OK 23ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:944:043)> TestCredit testCorrectlyCredited OK 12ms
+<LEVEL(INFO)> <CATEGORY(OUTPUT)> <DATE(2017-11-19 18:953:043)> 11/11	100% Succes		Test total duration: 660ms
